@@ -1,0 +1,29 @@
+﻿JobID,CustID,MoveDate,FromAddress,FromCity,FromState,ToAddress,ToCity,ToState,DistanceEst,WeightEst,Packing,Heavy,Storage
+2,1,9/05/16,1789 Eighth Avenue,Spokane,WA,7899 Grandview Apt #5,Pullman,WA,60,1250,TRUE,TRUE,FALSE
+3,3,9/15/16,4433 Grindstaff St,Kennewick,WA,#3 Madison Ct,Richmond,WA,10,2000,FALSE,FALSE,FALSE
+4,3,9/20/16,9000 Greely Pkwy,Seattle,WA,6788 Fifth Avenue,Tacoma,WA,15,1200,TRUE,TRUE,FALSE
+5,9,9/30/16,143 Faulkner Lane,Bellingham,WA,6788 Carson Road,Tacoma,WA,120,5500,TRUE,TRUE,FALSE
+6,16,10/01/16,7990 Bellington Road,Mount Vernon,WA,78661 Davidson Drive,Marysville,WA,35,5500,TRUE,TRUE,FALSE
+7,13,10/05/16,9000 Wayside Drive,Casper,WY,8989 Franklin Street,Cody,WY,214,5000,TRUE,TRUE,FALSE
+8,7,10/05/16,9001 Harvard Way,Cheyenne,WY,78 Fortner Court,Sheridan,WY,329,2500,TRUE,TRUE,FALSE
+9,4,10/05/16,89098 Jackson Street,Jackson,WY,2009 Kinsington Place,Cody,WY,178,5500,TRUE,TRUE,FALSE
+10,4,10/20/16,7890 Grapevine Court,Riverton,WY,666 Grand Pead Drive,Casper,WY,120,2500,FALSE,TRUE,FALSE
+11,10,10/15/16,9001 Shady Lane,Bend,OR,9000 Smith Avenue,Eugene,OR,115,5500,TRUE,TRUE,FALSE
+12,10,10/18/16,87998 McDonald Road,Eugene,OR,78987 Garrison Way,Salem,OR,65,2000,FALSE,FALSE,FALSE
+13,26,10/15/16,7899 Tindell St,Medford,OR,3422 Victory Circle,John Day,OR,330,6500,TRUE,TRUE,FALSE
+14,36,10/08/16,8900 Washington Street,Astoria,OR,6755 Garrison Park Road,Pendleton,OR,300,7000,TRUE,TRUE,FALSE
+15,18,10/16/16,7890 Eighth Ave,Tacoma,WA,89 Fifth Avenue,Wenatchee,WA,165,5500,TRUE,TRUE,FALSE
+16,27,10/18/16,#5 Mountain View Way,Spokane,WA,4509 El Cajon Blvd,Yakima,WA,200,7200,TRUE,TRUE,TRUE
+17,32,10/15/16,2344 Grandview St,Portland,OR,309 Fifth Street S,Bremeton,WA,175,5500,TRUE,TRUE,TRUE
+18,17,10/14/16,1290 Franklin Street,Rock Springs,WY,3409 Greelee St,Cheyenne,WY,260,6000,TRUE,TRUE,TRUE
+19,17,10/22/16,# 3 Madison Ct,Rock Springs,WY,2456 Faulkner Road,Cheyenne,WY,260,5000,TRUE,TRUE,FALSE
+20,38,10/23/16,9710 Homewood Circle,Jackson,WY,1209 Grandview Court,Cody,WY,180,4000,TRUE,FALSE,TRUE
+21,31,10/24/16,5789 Tinsdale Rd,Cody,WY,2509 22nd Street,Riverton,WY,140,5500,TRUE,TRUE,TRUE
+22,13,10/30/16,5690 McDonald Pkwy,Jackson,WY,1098 Cheryl Lane,Rock Springs,WY,180,4500,TRUE,FALSE,TRUE
+23,22,11/05/16,1200 Greenlee Way,Cheyenne,WY,39098 Scotland Court,Jackson,WY,436,2000,TRUE,TRUE,TRUE
+24,22,11/15/16,12900 Misty Lane,Cody,WY,#3 Timbercreek Lane,Jackson,WY,178,2500,FALSE,FALSE,FALSE
+25,2,11/15/16,1200 Haven Street,Salem,OR,10928 Garrison Rd,Medford,OR,225,5000,TRUE,TRUE,FALSE
+26,2,11/15/16,2099 Nature Walk Rd,Salem,OR,8378 Eighth Ave S,Medford,OR,225,2000,TRUE,FALSE,FALSE
+27,2,11/15/16,1200 College Street,Salem,OR,7898 Gergory Court,Medford,OR,225,3500,TRUE,FALSE,FALSE
+28,10,11/18/16,1098 Keystone St,Bend,OR,8798 Hannah Way,Eugene,OR,115,3000,TRUE,TRUE,FALSE
+29,36,11/20/16,20005 Perking Rd,Pendleton,OR,8777 Austin Lea Road,Bend,OR,243,2500,TRUE,FALSE,FALSE
